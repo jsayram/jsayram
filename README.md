@@ -26,7 +26,7 @@ I build tools that help people understand software, test it, and decide what’s
 
 - 🗺️ [**Blueprint**](https://joseramirez-io.pages.dev/projects/blueprint/) · Sketch a system, extend it with a local model, and turn the design into a Markdown spec.
 - 🏭 [**Solo Software Factory**](https://joseramirez-io.pages.dev/projects/software-factory/) · A private agent workflow with separate implementation, reviews, and approval before integration.
-- 📚 [**CodeDetails**](https://github.com/jsayram/CodeDetailsWeb) · A platform for organizing software projects and generating repository documentation.
+- 📚 [**Code Details**](https://github.com/jsayram/Code_Details) · Share, search and favorite software projects, with LLM-written guides to GitHub repos. Next.js, Convex and Better Auth.
 - 🧠 [**My Second Brain**](https://joseramirez-io.pages.dev/#second-brain) · My Obsidian knowledge graph and the workflow that carries research and engineering decisions into new projects.
 
 ### iOS, Vision & Media
